@@ -26,6 +26,7 @@ Following professional standards, the repository is organized as follows:
 ├── notebooks/              # Analysis and modeling
 │   └── Final Project-BA.ipynb
 └── README.md               # Project documentation
+```
 
 ### Dataset Description
 The analysis utilizes six interconnected datasets:
@@ -57,3 +58,5 @@ To run the analysis locally, ensure you have the following libraries installed:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost catboost lightgbm autogluon shap
+```
+*python==1.13.1*
